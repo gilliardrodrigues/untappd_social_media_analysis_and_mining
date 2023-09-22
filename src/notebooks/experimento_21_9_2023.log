@@ -1,0 +1,683 @@
+2023-09-21 21:30:07,309 - INFO - Coletando links de cervejas brasileiras do 'top rated'...
+2023-09-21 21:30:07,324 - INFO - Feito.
+2023-09-21 21:30:07,350 - INFO - Número total de cervejas no 'top rated' do Brasil: 50
+2023-09-21 21:30:42,028 - INFO - Iniciando uma sessão...
+2023-09-21 21:30:42,029 - INFO - A iteração começará agora...
+2023-09-21 21:30:51,885 - INFO - Link 'Show more' da 1ª página clicado pela 1ª vez
+2023-09-21 21:30:56,941 - INFO - Link 'Show more' da 1ª página clicado pela 2ª vez
+2023-09-21 21:31:01,999 - INFO - Link 'Show more' da 1ª página clicado pela 3ª vez
+2023-09-21 21:31:07,103 - INFO - Link 'Show more' da 1ª página clicado pela 4ª vez
+2023-09-21 21:31:12,188 - INFO - Link 'Show more' da 1ª página clicado pela 5ª vez
+2023-09-21 21:31:17,255 - INFO - Link 'Show more' da 1ª página clicado pela 6ª vez
+2023-09-21 21:31:22,329 - INFO - Link 'Show more' da 1ª página clicado pela 7ª vez
+2023-09-21 21:31:27,417 - INFO - Link 'Show more' da 1ª página clicado pela 8ª vez
+2023-09-21 21:31:32,521 - INFO - Link 'Show more' da 1ª página clicado pela 9ª vez
+2023-09-21 21:31:37,626 - INFO - Link 'Show more' da 1ª página clicado pela 10ª vez
+2023-09-21 21:31:42,747 - INFO - Link 'Show more' da 1ª página clicado pela 11ª vez
+2023-09-21 21:31:47,870 - INFO - Link 'Show more' da 1ª página clicado pela 12ª vez
+2023-09-21 21:31:57,921 - INFO - Fim da página alcançado!
+2023-09-21 21:32:00,953 - INFO - Foram coletados 856 id's de usuários da página completa.
+2023-09-21 21:32:09,499 - INFO - Link 'Show more' da 2ª página clicado pela 1ª vez
+2023-09-21 21:32:14,549 - INFO - Link 'Show more' da 2ª página clicado pela 2ª vez
+2023-09-21 21:32:19,599 - INFO - Link 'Show more' da 2ª página clicado pela 3ª vez
+2023-09-21 21:32:24,691 - INFO - Link 'Show more' da 2ª página clicado pela 4ª vez
+2023-09-21 21:32:29,753 - INFO - Link 'Show more' da 2ª página clicado pela 5ª vez
+2023-09-21 21:32:34,816 - INFO - Link 'Show more' da 2ª página clicado pela 6ª vez
+2023-09-21 21:32:39,894 - INFO - Link 'Show more' da 2ª página clicado pela 7ª vez
+2023-09-21 21:32:44,964 - INFO - Link 'Show more' da 2ª página clicado pela 8ª vez
+2023-09-21 21:32:50,019 - INFO - Link 'Show more' da 2ª página clicado pela 9ª vez
+2023-09-21 21:32:55,068 - INFO - Link 'Show more' da 2ª página clicado pela 10ª vez
+2023-09-21 21:33:00,130 - INFO - Link 'Show more' da 2ª página clicado pela 11ª vez
+2023-09-21 21:33:05,189 - INFO - Link 'Show more' da 2ª página clicado pela 12ª vez
+2023-09-21 21:33:15,617 - INFO - Fim da página alcançado!
+2023-09-21 21:33:16,541 - INFO - Foram coletados 813 id's de usuários da página completa.
+2023-09-21 21:33:23,392 - INFO - Link 'Show more' da 3ª página clicado pela 1ª vez
+2023-09-21 21:33:28,438 - INFO - Link 'Show more' da 3ª página clicado pela 2ª vez
+2023-09-21 21:33:33,485 - INFO - Link 'Show more' da 3ª página clicado pela 3ª vez
+2023-09-21 21:33:38,530 - INFO - Link 'Show more' da 3ª página clicado pela 4ª vez
+2023-09-21 21:33:43,589 - INFO - Link 'Show more' da 3ª página clicado pela 5ª vez
+2023-09-21 21:33:48,637 - INFO - Link 'Show more' da 3ª página clicado pela 6ª vez
+2023-09-21 21:33:53,695 - INFO - Link 'Show more' da 3ª página clicado pela 7ª vez
+2023-09-21 21:33:58,750 - INFO - Link 'Show more' da 3ª página clicado pela 8ª vez
+2023-09-21 21:34:03,799 - INFO - Link 'Show more' da 3ª página clicado pela 9ª vez
+2023-09-21 21:34:08,867 - INFO - Link 'Show more' da 3ª página clicado pela 10ª vez
+2023-09-21 21:34:13,928 - INFO - Link 'Show more' da 3ª página clicado pela 11ª vez
+2023-09-21 21:34:24,351 - INFO - Fim da página alcançado!
+2023-09-21 21:34:25,232 - INFO - Foram coletados 834 id's de usuários da página completa.
+2023-09-21 21:34:31,963 - INFO - Link 'Show more' da 4ª página clicado pela 1ª vez
+2023-09-21 21:34:37,009 - INFO - Link 'Show more' da 4ª página clicado pela 2ª vez
+2023-09-21 21:34:42,057 - INFO - Link 'Show more' da 4ª página clicado pela 3ª vez
+2023-09-21 21:34:47,115 - INFO - Link 'Show more' da 4ª página clicado pela 4ª vez
+2023-09-21 21:34:52,170 - INFO - Link 'Show more' da 4ª página clicado pela 5ª vez
+2023-09-21 21:34:57,220 - INFO - Link 'Show more' da 4ª página clicado pela 6ª vez
+2023-09-21 21:35:02,274 - INFO - Link 'Show more' da 4ª página clicado pela 7ª vez
+2023-09-21 21:35:07,330 - INFO - Link 'Show more' da 4ª página clicado pela 8ª vez
+2023-09-21 21:35:12,382 - INFO - Link 'Show more' da 4ª página clicado pela 9ª vez
+2023-09-21 21:35:17,437 - INFO - Link 'Show more' da 4ª página clicado pela 10ª vez
+2023-09-21 21:35:22,488 - INFO - Link 'Show more' da 4ª página clicado pela 11ª vez
+2023-09-21 21:35:27,532 - INFO - Link 'Show more' da 4ª página clicado pela 12ª vez
+2023-09-21 21:35:37,557 - INFO - Fim da página alcançado!
+2023-09-21 21:35:38,374 - INFO - Foram coletados 462 id's de usuários da página completa.
+2023-09-21 21:35:45,868 - INFO - Link 'Show more' da 5ª página clicado pela 1ª vez
+2023-09-21 21:35:50,929 - INFO - Link 'Show more' da 5ª página clicado pela 2ª vez
+2023-09-21 21:35:55,975 - INFO - Link 'Show more' da 5ª página clicado pela 3ª vez
+2023-09-21 21:36:01,021 - INFO - Link 'Show more' da 5ª página clicado pela 4ª vez
+2023-09-21 21:36:06,083 - INFO - Link 'Show more' da 5ª página clicado pela 5ª vez
+2023-09-21 21:36:11,143 - INFO - Link 'Show more' da 5ª página clicado pela 6ª vez
+2023-09-21 21:36:16,204 - INFO - Link 'Show more' da 5ª página clicado pela 7ª vez
+2023-09-21 21:36:21,271 - INFO - Link 'Show more' da 5ª página clicado pela 8ª vez
+2023-09-21 21:36:26,331 - INFO - Link 'Show more' da 5ª página clicado pela 9ª vez
+2023-09-21 21:36:31,392 - INFO - Link 'Show more' da 5ª página clicado pela 10ª vez
+2023-09-21 21:36:36,462 - INFO - Link 'Show more' da 5ª página clicado pela 11ª vez
+2023-09-21 21:36:46,985 - INFO - Fim da página alcançado!
+2023-09-21 21:36:47,818 - INFO - Foram coletados 795 id's de usuários da página completa.
+2023-09-21 21:36:54,868 - INFO - Link 'Show more' da 6ª página clicado pela 1ª vez
+2023-09-21 21:36:59,923 - INFO - Link 'Show more' da 6ª página clicado pela 2ª vez
+2023-09-21 21:37:04,964 - INFO - Link 'Show more' da 6ª página clicado pela 3ª vez
+2023-09-21 21:37:10,008 - INFO - Link 'Show more' da 6ª página clicado pela 4ª vez
+2023-09-21 21:37:15,053 - INFO - Link 'Show more' da 6ª página clicado pela 5ª vez
+2023-09-21 21:37:20,100 - INFO - Link 'Show more' da 6ª página clicado pela 6ª vez
+2023-09-21 21:37:25,144 - INFO - Link 'Show more' da 6ª página clicado pela 7ª vez
+2023-09-21 21:37:30,201 - INFO - Link 'Show more' da 6ª página clicado pela 8ª vez
+2023-09-21 21:37:35,245 - INFO - Link 'Show more' da 6ª página clicado pela 9ª vez
+2023-09-21 21:37:40,299 - INFO - Link 'Show more' da 6ª página clicado pela 10ª vez
+2023-09-21 21:37:45,350 - INFO - Link 'Show more' da 6ª página clicado pela 11ª vez
+2023-09-21 21:37:50,410 - INFO - Link 'Show more' da 6ª página clicado pela 12ª vez
+2023-09-21 21:38:00,913 - INFO - Fim da página alcançado!
+2023-09-21 21:38:01,661 - INFO - Foram coletados 526 id's de usuários da página completa.
+2023-09-21 21:38:08,227 - INFO - Link 'Show more' da 7ª página clicado pela 1ª vez
+2023-09-21 21:38:13,269 - INFO - Link 'Show more' da 7ª página clicado pela 2ª vez
+2023-09-21 21:38:18,316 - INFO - Link 'Show more' da 7ª página clicado pela 3ª vez
+2023-09-21 21:38:23,366 - INFO - Link 'Show more' da 7ª página clicado pela 4ª vez
+2023-09-21 21:38:28,425 - INFO - Link 'Show more' da 7ª página clicado pela 5ª vez
+2023-09-21 21:38:33,514 - INFO - Link 'Show more' da 7ª página clicado pela 6ª vez
+2023-09-21 21:38:38,579 - INFO - Link 'Show more' da 7ª página clicado pela 7ª vez
+2023-09-21 21:38:43,665 - INFO - Link 'Show more' da 7ª página clicado pela 8ª vez
+2023-09-21 21:38:48,750 - INFO - Link 'Show more' da 7ª página clicado pela 9ª vez
+2023-09-21 21:38:53,852 - INFO - Link 'Show more' da 7ª página clicado pela 10ª vez
+2023-09-21 21:38:58,962 - INFO - Link 'Show more' da 7ª página clicado pela 11ª vez
+2023-09-21 21:39:04,080 - INFO - Link 'Show more' da 7ª página clicado pela 12ª vez
+2023-09-21 21:39:14,507 - INFO - Fim da página alcançado!
+2023-09-21 21:39:15,178 - INFO - Foram coletados 542 id's de usuários da página completa.
+2023-09-21 21:39:22,562 - INFO - Link 'Show more' da 8ª página clicado pela 1ª vez
+2023-09-21 21:39:27,611 - INFO - Link 'Show more' da 8ª página clicado pela 2ª vez
+2023-09-21 21:39:32,666 - INFO - Link 'Show more' da 8ª página clicado pela 3ª vez
+2023-09-21 21:39:37,714 - INFO - Link 'Show more' da 8ª página clicado pela 4ª vez
+2023-09-21 21:39:42,759 - INFO - Link 'Show more' da 8ª página clicado pela 5ª vez
+2023-09-21 21:39:47,804 - INFO - Link 'Show more' da 8ª página clicado pela 6ª vez
+2023-09-21 21:39:52,860 - INFO - Link 'Show more' da 8ª página clicado pela 7ª vez
+2023-09-21 21:39:57,910 - INFO - Link 'Show more' da 8ª página clicado pela 8ª vez
+2023-09-21 21:40:02,962 - INFO - Link 'Show more' da 8ª página clicado pela 9ª vez
+2023-09-21 21:40:08,010 - INFO - Link 'Show more' da 8ª página clicado pela 10ª vez
+2023-09-21 21:40:13,066 - INFO - Link 'Show more' da 8ª página clicado pela 11ª vez
+2023-09-21 21:40:18,127 - INFO - Link 'Show more' da 8ª página clicado pela 12ª vez
+2023-09-21 21:40:28,581 - INFO - Fim da página alcançado!
+2023-09-21 21:40:29,215 - INFO - Foram coletados 452 id's de usuários da página completa.
+2023-09-21 21:40:36,212 - INFO - Link 'Show more' da 9ª página clicado pela 1ª vez
+2023-09-21 21:40:41,272 - INFO - Link 'Show more' da 9ª página clicado pela 2ª vez
+2023-09-21 21:40:46,319 - INFO - Link 'Show more' da 9ª página clicado pela 3ª vez
+2023-09-21 21:40:51,363 - INFO - Link 'Show more' da 9ª página clicado pela 4ª vez
+2023-09-21 21:40:56,411 - INFO - Link 'Show more' da 9ª página clicado pela 5ª vez
+2023-09-21 21:41:01,469 - INFO - Link 'Show more' da 9ª página clicado pela 6ª vez
+2023-09-21 21:41:06,529 - INFO - Link 'Show more' da 9ª página clicado pela 7ª vez
+2023-09-21 21:41:11,586 - INFO - Link 'Show more' da 9ª página clicado pela 8ª vez
+2023-09-21 21:41:16,650 - INFO - Link 'Show more' da 9ª página clicado pela 9ª vez
+2023-09-21 21:41:27,071 - INFO - Fim da página alcançado!
+2023-09-21 21:41:27,664 - INFO - Foram coletados 612 id's de usuários da página completa.
+2023-09-21 21:41:34,424 - INFO - Link 'Show more' da 10ª página clicado pela 1ª vez
+2023-09-21 21:41:39,474 - INFO - Link 'Show more' da 10ª página clicado pela 2ª vez
+2023-09-21 21:41:44,523 - INFO - Link 'Show more' da 10ª página clicado pela 3ª vez
+2023-09-21 21:41:49,581 - INFO - Link 'Show more' da 10ª página clicado pela 4ª vez
+2023-09-21 21:41:54,629 - INFO - Link 'Show more' da 10ª página clicado pela 5ª vez
+2023-09-21 21:41:59,678 - INFO - Link 'Show more' da 10ª página clicado pela 6ª vez
+2023-09-21 21:42:04,733 - INFO - Link 'Show more' da 10ª página clicado pela 7ª vez
+2023-09-21 21:42:09,795 - INFO - Link 'Show more' da 10ª página clicado pela 8ª vez
+2023-09-21 21:42:14,847 - INFO - Link 'Show more' da 10ª página clicado pela 9ª vez
+2023-09-21 21:42:19,901 - INFO - Link 'Show more' da 10ª página clicado pela 10ª vez
+2023-09-21 21:42:24,955 - INFO - Link 'Show more' da 10ª página clicado pela 11ª vez
+2023-09-21 21:42:35,368 - INFO - Fim da página alcançado!
+2023-09-21 21:42:36,012 - INFO - Foram coletados 465 id's de usuários da página completa.
+2023-09-21 21:42:43,131 - INFO - Link 'Show more' da 11ª página clicado pela 1ª vez
+2023-09-21 21:42:48,191 - INFO - Link 'Show more' da 11ª página clicado pela 2ª vez
+2023-09-21 21:42:53,249 - INFO - Link 'Show more' da 11ª página clicado pela 3ª vez
+2023-09-21 21:42:58,304 - INFO - Link 'Show more' da 11ª página clicado pela 4ª vez
+2023-09-21 21:43:03,361 - INFO - Link 'Show more' da 11ª página clicado pela 5ª vez
+2023-09-21 21:43:08,412 - INFO - Link 'Show more' da 11ª página clicado pela 6ª vez
+2023-09-21 21:43:13,480 - INFO - Link 'Show more' da 11ª página clicado pela 7ª vez
+2023-09-21 21:43:18,543 - INFO - Link 'Show more' da 11ª página clicado pela 8ª vez
+2023-09-21 21:43:23,604 - INFO - Link 'Show more' da 11ª página clicado pela 9ª vez
+2023-09-21 21:43:28,668 - INFO - Link 'Show more' da 11ª página clicado pela 10ª vez
+2023-09-21 21:43:33,718 - INFO - Link 'Show more' da 11ª página clicado pela 11ª vez
+2023-09-21 21:43:38,781 - INFO - Link 'Show more' da 11ª página clicado pela 12ª vez
+2023-09-21 21:43:49,222 - INFO - Fim da página alcançado!
+2023-09-21 21:43:50,121 - INFO - Foram coletados 874 id's de usuários da página completa.
+2023-09-21 21:43:57,350 - INFO - Link 'Show more' da 12ª página clicado pela 1ª vez
+2023-09-21 21:44:02,424 - INFO - Link 'Show more' da 12ª página clicado pela 2ª vez
+2023-09-21 21:44:07,496 - INFO - Link 'Show more' da 12ª página clicado pela 3ª vez
+2023-09-21 21:44:12,552 - INFO - Link 'Show more' da 12ª página clicado pela 4ª vez
+2023-09-21 21:44:17,608 - INFO - Link 'Show more' da 12ª página clicado pela 5ª vez
+2023-09-21 21:44:22,669 - INFO - Link 'Show more' da 12ª página clicado pela 6ª vez
+2023-09-21 21:44:27,720 - INFO - Link 'Show more' da 12ª página clicado pela 7ª vez
+2023-09-21 21:44:32,766 - INFO - Link 'Show more' da 12ª página clicado pela 8ª vez
+2023-09-21 21:44:37,816 - INFO - Link 'Show more' da 12ª página clicado pela 9ª vez
+2023-09-21 21:44:44,828 - INFO - Link 'Show more' da 12ª página clicado pela 10ª vez
+2023-09-21 21:44:49,875 - INFO - Link 'Show more' da 12ª página clicado pela 11ª vez
+2023-09-21 21:45:00,374 - INFO - Fim da página alcançado!
+2023-09-21 21:45:01,173 - INFO - Foram coletados 614 id's de usuários da página completa.
+2023-09-21 21:45:10,223 - INFO - Link 'Show more' da 13ª página clicado pela 1ª vez
+2023-09-21 21:45:15,284 - INFO - Link 'Show more' da 13ª página clicado pela 2ª vez
+2023-09-21 21:45:20,333 - INFO - Link 'Show more' da 13ª página clicado pela 3ª vez
+2023-09-21 21:45:25,384 - INFO - Link 'Show more' da 13ª página clicado pela 4ª vez
+2023-09-21 21:45:30,427 - INFO - Link 'Show more' da 13ª página clicado pela 5ª vez
+2023-09-21 21:45:35,483 - INFO - Link 'Show more' da 13ª página clicado pela 6ª vez
+2023-09-21 21:45:40,538 - INFO - Link 'Show more' da 13ª página clicado pela 7ª vez
+2023-09-21 21:45:45,590 - INFO - Link 'Show more' da 13ª página clicado pela 8ª vez
+2023-09-21 21:45:50,660 - INFO - Link 'Show more' da 13ª página clicado pela 9ª vez
+2023-09-21 21:45:55,705 - INFO - Link 'Show more' da 13ª página clicado pela 10ª vez
+2023-09-21 21:46:00,782 - INFO - Link 'Show more' da 13ª página clicado pela 11ª vez
+2023-09-21 21:46:05,831 - INFO - Link 'Show more' da 13ª página clicado pela 12ª vez
+2023-09-21 21:46:16,366 - INFO - Fim da página alcançado!
+2023-09-21 21:46:17,157 - INFO - Foram coletados 531 id's de usuários da página completa.
+2023-09-21 21:46:26,671 - INFO - Link 'Show more' da 14ª página clicado pela 1ª vez
+2023-09-21 21:46:31,711 - INFO - Link 'Show more' da 14ª página clicado pela 2ª vez
+2023-09-21 21:46:36,760 - INFO - Link 'Show more' da 14ª página clicado pela 3ª vez
+2023-09-21 21:46:41,810 - INFO - Link 'Show more' da 14ª página clicado pela 4ª vez
+2023-09-21 21:46:46,877 - INFO - Link 'Show more' da 14ª página clicado pela 5ª vez
+2023-09-21 21:46:51,932 - INFO - Link 'Show more' da 14ª página clicado pela 6ª vez
+2023-09-21 21:46:56,988 - INFO - Link 'Show more' da 14ª página clicado pela 7ª vez
+2023-09-21 21:47:02,039 - INFO - Link 'Show more' da 14ª página clicado pela 8ª vez
+2023-09-21 21:47:07,106 - INFO - Link 'Show more' da 14ª página clicado pela 9ª vez
+2023-09-21 21:47:12,160 - INFO - Link 'Show more' da 14ª página clicado pela 10ª vez
+2023-09-21 21:47:17,214 - INFO - Link 'Show more' da 14ª página clicado pela 11ª vez
+2023-09-21 21:47:22,259 - INFO - Link 'Show more' da 14ª página clicado pela 12ª vez
+2023-09-21 21:47:32,668 - INFO - Fim da página alcançado!
+2023-09-21 21:47:33,593 - INFO - Foram coletados 543 id's de usuários da página completa.
+2023-09-21 21:47:43,095 - INFO - Link 'Show more' da 15ª página clicado pela 1ª vez
+2023-09-21 21:47:48,149 - INFO - Link 'Show more' da 15ª página clicado pela 2ª vez
+2023-09-21 21:47:53,192 - INFO - Link 'Show more' da 15ª página clicado pela 3ª vez
+2023-09-21 21:47:58,243 - INFO - Link 'Show more' da 15ª página clicado pela 4ª vez
+2023-09-21 21:48:03,296 - INFO - Link 'Show more' da 15ª página clicado pela 5ª vez
+2023-09-21 21:48:08,353 - INFO - Link 'Show more' da 15ª página clicado pela 6ª vez
+2023-09-21 21:48:13,402 - INFO - Link 'Show more' da 15ª página clicado pela 7ª vez
+2023-09-21 21:48:18,484 - INFO - Link 'Show more' da 15ª página clicado pela 8ª vez
+2023-09-21 21:48:23,535 - INFO - Link 'Show more' da 15ª página clicado pela 9ª vez
+2023-09-21 21:48:28,586 - INFO - Link 'Show more' da 15ª página clicado pela 10ª vez
+2023-09-21 21:48:33,648 - INFO - Link 'Show more' da 15ª página clicado pela 11ª vez
+2023-09-21 21:48:38,730 - INFO - Link 'Show more' da 15ª página clicado pela 12ª vez
+2023-09-21 21:48:49,143 - INFO - Fim da página alcançado!
+2023-09-21 21:48:49,840 - INFO - Foram coletados 616 id's de usuários da página completa.
+2023-09-21 21:48:59,227 - INFO - Link 'Show more' da 16ª página clicado pela 1ª vez
+2023-09-21 21:49:04,274 - INFO - Link 'Show more' da 16ª página clicado pela 2ª vez
+2023-09-21 21:49:09,326 - INFO - Link 'Show more' da 16ª página clicado pela 3ª vez
+2023-09-21 21:49:14,375 - INFO - Link 'Show more' da 16ª página clicado pela 4ª vez
+2023-09-21 21:49:19,423 - INFO - Link 'Show more' da 16ª página clicado pela 5ª vez
+2023-09-21 21:49:24,472 - INFO - Link 'Show more' da 16ª página clicado pela 6ª vez
+2023-09-21 21:49:29,532 - INFO - Link 'Show more' da 16ª página clicado pela 7ª vez
+2023-09-21 21:49:34,586 - INFO - Link 'Show more' da 16ª página clicado pela 8ª vez
+2023-09-21 21:49:39,637 - INFO - Link 'Show more' da 16ª página clicado pela 9ª vez
+2023-09-21 21:49:44,704 - INFO - Link 'Show more' da 16ª página clicado pela 10ª vez
+2023-09-21 21:49:49,757 - INFO - Link 'Show more' da 16ª página clicado pela 11ª vez
+2023-09-21 21:49:54,828 - INFO - Link 'Show more' da 16ª página clicado pela 12ª vez
+2023-09-21 21:50:05,288 - INFO - Fim da página alcançado!
+2023-09-21 21:50:05,919 - INFO - Foram coletados 465 id's de usuários da página completa.
+2023-09-21 21:50:14,179 - INFO - Link 'Show more' da 17ª página clicado pela 1ª vez
+2023-09-21 21:50:19,226 - INFO - Link 'Show more' da 17ª página clicado pela 2ª vez
+2023-09-21 21:50:24,282 - INFO - Link 'Show more' da 17ª página clicado pela 3ª vez
+2023-09-21 21:50:29,326 - INFO - Link 'Show more' da 17ª página clicado pela 4ª vez
+2023-09-21 21:50:34,376 - INFO - Link 'Show more' da 17ª página clicado pela 5ª vez
+2023-09-21 21:50:39,424 - INFO - Link 'Show more' da 17ª página clicado pela 6ª vez
+2023-09-21 21:50:44,474 - INFO - Link 'Show more' da 17ª página clicado pela 7ª vez
+2023-09-21 21:50:49,524 - INFO - Link 'Show more' da 17ª página clicado pela 8ª vez
+2023-09-21 21:50:59,958 - INFO - Fim da página alcançado!
+2023-09-21 21:51:00,431 - INFO - Foram coletados 386 id's de usuários da página completa.
+2023-09-21 21:51:12,016 - INFO - Link 'Show more' da 18ª página clicado pela 1ª vez
+2023-09-21 21:51:17,075 - INFO - Link 'Show more' da 18ª página clicado pela 2ª vez
+2023-09-21 21:51:22,128 - INFO - Link 'Show more' da 18ª página clicado pela 3ª vez
+2023-09-21 21:51:27,186 - INFO - Link 'Show more' da 18ª página clicado pela 4ª vez
+2023-09-21 21:51:32,235 - INFO - Link 'Show more' da 18ª página clicado pela 5ª vez
+2023-09-21 21:51:37,287 - INFO - Link 'Show more' da 18ª página clicado pela 6ª vez
+2023-09-21 21:51:42,345 - INFO - Link 'Show more' da 18ª página clicado pela 7ª vez
+2023-09-21 21:51:47,406 - INFO - Link 'Show more' da 18ª página clicado pela 8ª vez
+2023-09-21 21:51:52,461 - INFO - Link 'Show more' da 18ª página clicado pela 9ª vez
+2023-09-21 21:51:57,517 - INFO - Link 'Show more' da 18ª página clicado pela 10ª vez
+2023-09-21 21:52:02,575 - INFO - Link 'Show more' da 18ª página clicado pela 11ª vez
+2023-09-21 21:52:12,987 - INFO - Fim da página alcançado!
+2023-09-21 21:52:13,745 - INFO - Foram coletados 746 id's de usuários da página completa.
+2023-09-21 21:52:23,592 - INFO - Link 'Show more' da 19ª página clicado pela 1ª vez
+2023-09-21 21:52:28,636 - INFO - Link 'Show more' da 19ª página clicado pela 2ª vez
+2023-09-21 21:52:33,687 - INFO - Link 'Show more' da 19ª página clicado pela 3ª vez
+2023-09-21 21:52:38,740 - INFO - Link 'Show more' da 19ª página clicado pela 4ª vez
+2023-09-21 21:52:43,794 - INFO - Link 'Show more' da 19ª página clicado pela 5ª vez
+2023-09-21 21:52:48,858 - INFO - Link 'Show more' da 19ª página clicado pela 6ª vez
+2023-09-21 21:52:53,917 - INFO - Link 'Show more' da 19ª página clicado pela 7ª vez
+2023-09-21 21:52:58,980 - INFO - Link 'Show more' da 19ª página clicado pela 8ª vez
+2023-09-21 21:53:04,036 - INFO - Link 'Show more' da 19ª página clicado pela 9ª vez
+2023-09-21 21:53:09,093 - INFO - Link 'Show more' da 19ª página clicado pela 10ª vez
+2023-09-21 21:53:14,148 - INFO - Link 'Show more' da 19ª página clicado pela 11ª vez
+2023-09-21 21:53:24,590 - INFO - Fim da página alcançado!
+2023-09-21 21:53:25,334 - INFO - Foram coletados 687 id's de usuários da página completa.
+2023-09-21 21:53:34,317 - INFO - Link 'Show more' da 20ª página clicado pela 1ª vez
+2023-09-21 21:53:39,380 - INFO - Link 'Show more' da 20ª página clicado pela 2ª vez
+2023-09-21 21:53:44,426 - INFO - Link 'Show more' da 20ª página clicado pela 3ª vez
+2023-09-21 21:53:49,474 - INFO - Link 'Show more' da 20ª página clicado pela 4ª vez
+2023-09-21 21:53:54,528 - INFO - Link 'Show more' da 20ª página clicado pela 5ª vez
+2023-09-21 21:53:59,575 - INFO - Link 'Show more' da 20ª página clicado pela 6ª vez
+2023-09-21 21:54:04,667 - INFO - Link 'Show more' da 20ª página clicado pela 7ª vez
+2023-09-21 21:54:09,727 - INFO - Link 'Show more' da 20ª página clicado pela 8ª vez
+2023-09-21 21:54:14,783 - INFO - Link 'Show more' da 20ª página clicado pela 9ª vez
+2023-09-21 21:54:19,876 - INFO - Link 'Show more' da 20ª página clicado pela 10ª vez
+2023-09-21 21:54:24,941 - INFO - Link 'Show more' da 20ª página clicado pela 11ª vez
+2023-09-21 21:54:35,415 - INFO - Fim da página alcançado!
+2023-09-21 21:54:36,065 - INFO - Foram coletados 436 id's de usuários da página completa.
+2023-09-21 21:54:44,178 - INFO - Link 'Show more' da 21ª página clicado pela 1ª vez
+2023-09-21 21:54:49,220 - INFO - Link 'Show more' da 21ª página clicado pela 2ª vez
+2023-09-21 21:54:54,280 - INFO - Link 'Show more' da 21ª página clicado pela 3ª vez
+2023-09-21 21:54:59,328 - INFO - Link 'Show more' da 21ª página clicado pela 4ª vez
+2023-09-21 21:55:04,383 - INFO - Link 'Show more' da 21ª página clicado pela 5ª vez
+2023-09-21 21:55:09,420 - INFO - Link 'Show more' da 21ª página clicado pela 6ª vez
+2023-09-21 21:55:14,468 - INFO - Link 'Show more' da 21ª página clicado pela 7ª vez
+2023-09-21 21:55:19,501 - INFO - Link 'Show more' da 21ª página clicado pela 8ª vez
+2023-09-21 21:55:24,555 - INFO - Link 'Show more' da 21ª página clicado pela 9ª vez
+2023-09-21 21:55:29,646 - INFO - Link 'Show more' da 21ª página clicado pela 10ª vez
+2023-09-21 21:55:34,698 - INFO - Link 'Show more' da 21ª página clicado pela 11ª vez
+2023-09-21 21:55:39,793 - INFO - Link 'Show more' da 21ª página clicado pela 12ª vez
+2023-09-21 21:55:49,800 - INFO - Fim da página alcançado!
+2023-09-21 21:55:50,597 - INFO - Foram coletados 580 id's de usuários da página completa.
+2023-09-21 21:55:59,310 - INFO - Link 'Show more' da 22ª página clicado pela 1ª vez
+2023-09-21 21:56:04,389 - INFO - Link 'Show more' da 22ª página clicado pela 2ª vez
+2023-09-21 21:56:09,430 - INFO - Link 'Show more' da 22ª página clicado pela 3ª vez
+2023-09-21 21:56:14,461 - INFO - Link 'Show more' da 22ª página clicado pela 4ª vez
+2023-09-21 21:56:19,518 - INFO - Link 'Show more' da 22ª página clicado pela 5ª vez
+2023-09-21 21:56:24,562 - INFO - Link 'Show more' da 22ª página clicado pela 6ª vez
+2023-09-21 21:56:29,599 - INFO - Link 'Show more' da 22ª página clicado pela 7ª vez
+2023-09-21 21:56:34,652 - INFO - Link 'Show more' da 22ª página clicado pela 8ª vez
+2023-09-21 21:56:39,704 - INFO - Link 'Show more' da 22ª página clicado pela 9ª vez
+2023-09-21 21:56:44,797 - INFO - Link 'Show more' da 22ª página clicado pela 10ª vez
+2023-09-21 21:56:49,874 - INFO - Link 'Show more' da 22ª página clicado pela 11ª vez
+2023-09-21 21:56:54,940 - INFO - Link 'Show more' da 22ª página clicado pela 12ª vez
+2023-09-21 21:57:05,390 - INFO - Fim da página alcançado!
+2023-09-21 21:57:06,189 - INFO - Foram coletados 564 id's de usuários da página completa.
+2023-09-21 21:57:14,922 - INFO - Link 'Show more' da 23ª página clicado pela 1ª vez
+2023-09-21 21:57:19,971 - INFO - Link 'Show more' da 23ª página clicado pela 2ª vez
+2023-09-21 21:57:25,015 - INFO - Link 'Show more' da 23ª página clicado pela 3ª vez
+2023-09-21 21:57:30,066 - INFO - Link 'Show more' da 23ª página clicado pela 4ª vez
+2023-09-21 21:57:35,099 - INFO - Link 'Show more' da 23ª página clicado pela 5ª vez
+2023-09-21 21:57:40,136 - INFO - Link 'Show more' da 23ª página clicado pela 6ª vez
+2023-09-21 21:57:45,168 - INFO - Link 'Show more' da 23ª página clicado pela 7ª vez
+2023-09-21 21:57:50,236 - INFO - Link 'Show more' da 23ª página clicado pela 8ª vez
+2023-09-21 21:57:55,334 - INFO - Link 'Show more' da 23ª página clicado pela 9ª vez
+2023-09-21 21:58:00,432 - INFO - Link 'Show more' da 23ª página clicado pela 10ª vez
+2023-09-21 21:58:05,538 - INFO - Link 'Show more' da 23ª página clicado pela 11ª vez
+2023-09-21 21:58:15,990 - INFO - Fim da página alcançado!
+2023-09-21 21:58:16,860 - INFO - Foram coletados 703 id's de usuários da página completa.
+2023-09-21 21:58:24,623 - INFO - Link 'Show more' da 24ª página clicado pela 1ª vez
+2023-09-21 21:58:29,689 - INFO - Link 'Show more' da 24ª página clicado pela 2ª vez
+2023-09-21 21:58:34,741 - INFO - Link 'Show more' da 24ª página clicado pela 3ª vez
+2023-09-21 21:58:39,787 - INFO - Link 'Show more' da 24ª página clicado pela 4ª vez
+2023-09-21 21:58:44,862 - INFO - Link 'Show more' da 24ª página clicado pela 5ª vez
+2023-09-21 21:58:49,922 - INFO - Link 'Show more' da 24ª página clicado pela 6ª vez
+2023-09-21 21:58:54,975 - INFO - Link 'Show more' da 24ª página clicado pela 7ª vez
+2023-09-21 21:59:00,032 - INFO - Link 'Show more' da 24ª página clicado pela 8ª vez
+2023-09-21 21:59:05,099 - INFO - Link 'Show more' da 24ª página clicado pela 9ª vez
+2023-09-21 21:59:10,164 - INFO - Link 'Show more' da 24ª página clicado pela 10ª vez
+2023-09-21 21:59:15,222 - INFO - Link 'Show more' da 24ª página clicado pela 11ª vez
+2023-09-21 21:59:20,280 - INFO - Link 'Show more' da 24ª página clicado pela 12ª vez
+2023-09-21 21:59:30,317 - INFO - Fim da página alcançado!
+2023-09-21 21:59:31,006 - INFO - Foram coletados 556 id's de usuários da página completa.
+2023-09-21 21:59:41,687 - INFO - Link 'Show more' da 25ª página clicado pela 1ª vez
+2023-09-21 21:59:46,730 - INFO - Link 'Show more' da 25ª página clicado pela 2ª vez
+2023-09-21 21:59:51,771 - INFO - Link 'Show more' da 25ª página clicado pela 3ª vez
+2023-09-21 21:59:56,815 - INFO - Link 'Show more' da 25ª página clicado pela 4ª vez
+2023-09-21 22:00:01,865 - INFO - Link 'Show more' da 25ª página clicado pela 5ª vez
+2023-09-21 22:00:06,915 - INFO - Link 'Show more' da 25ª página clicado pela 6ª vez
+2023-09-21 22:00:11,973 - INFO - Link 'Show more' da 25ª página clicado pela 7ª vez
+2023-09-21 22:00:17,025 - INFO - Link 'Show more' da 25ª página clicado pela 8ª vez
+2023-09-21 22:00:22,076 - INFO - Link 'Show more' da 25ª página clicado pela 9ª vez
+2023-09-21 22:00:27,137 - INFO - Link 'Show more' da 25ª página clicado pela 10ª vez
+2023-09-21 22:00:32,202 - INFO - Link 'Show more' da 25ª página clicado pela 11ª vez
+2023-09-21 22:00:42,645 - INFO - Fim da página alcançado!
+2023-09-21 22:00:43,480 - INFO - Foram coletados 840 id's de usuários da página completa.
+2023-09-21 22:00:51,833 - INFO - Link 'Show more' da 26ª página clicado pela 1ª vez
+2023-09-21 22:00:56,881 - INFO - Link 'Show more' da 26ª página clicado pela 2ª vez
+2023-09-21 22:01:01,935 - INFO - Link 'Show more' da 26ª página clicado pela 3ª vez
+2023-09-21 22:01:06,974 - INFO - Link 'Show more' da 26ª página clicado pela 4ª vez
+2023-09-21 22:01:12,026 - INFO - Link 'Show more' da 26ª página clicado pela 5ª vez
+2023-09-21 22:01:17,080 - INFO - Link 'Show more' da 26ª página clicado pela 6ª vez
+2023-09-21 22:01:22,125 - INFO - Link 'Show more' da 26ª página clicado pela 7ª vez
+2023-09-21 22:01:27,176 - INFO - Link 'Show more' da 26ª página clicado pela 8ª vez
+2023-09-21 22:01:32,228 - INFO - Link 'Show more' da 26ª página clicado pela 9ª vez
+2023-09-21 22:01:37,281 - INFO - Link 'Show more' da 26ª página clicado pela 10ª vez
+2023-09-21 22:01:42,343 - INFO - Link 'Show more' da 26ª página clicado pela 11ª vez
+2023-09-21 22:01:52,849 - INFO - Fim da página alcançado!
+2023-09-21 22:01:53,688 - INFO - Foram coletados 809 id's de usuários da página completa.
+2023-09-21 22:02:03,089 - INFO - Link 'Show more' da 27ª página clicado pela 1ª vez
+2023-09-21 22:02:08,144 - INFO - Link 'Show more' da 27ª página clicado pela 2ª vez
+2023-09-21 22:02:13,200 - INFO - Link 'Show more' da 27ª página clicado pela 3ª vez
+2023-09-21 22:02:18,255 - INFO - Link 'Show more' da 27ª página clicado pela 4ª vez
+2023-09-21 22:02:23,309 - INFO - Link 'Show more' da 27ª página clicado pela 5ª vez
+2023-09-21 22:02:28,362 - INFO - Link 'Show more' da 27ª página clicado pela 6ª vez
+2023-09-21 22:02:33,416 - INFO - Link 'Show more' da 27ª página clicado pela 7ª vez
+2023-09-21 22:02:38,463 - INFO - Link 'Show more' da 27ª página clicado pela 8ª vez
+2023-09-21 22:02:43,522 - INFO - Link 'Show more' da 27ª página clicado pela 9ª vez
+2023-09-21 22:02:48,573 - INFO - Link 'Show more' da 27ª página clicado pela 10ª vez
+2023-09-21 22:02:53,631 - INFO - Link 'Show more' da 27ª página clicado pela 11ª vez
+2023-09-21 22:03:04,124 - INFO - Fim da página alcançado!
+2023-09-21 22:03:05,151 - INFO - Foram coletados 836 id's de usuários da página completa.
+2023-09-21 22:03:13,478 - INFO - Link 'Show more' da 28ª página clicado pela 1ª vez
+2023-09-21 22:03:18,535 - INFO - Link 'Show more' da 28ª página clicado pela 2ª vez
+2023-09-21 22:03:23,579 - INFO - Link 'Show more' da 28ª página clicado pela 3ª vez
+2023-09-21 22:03:28,630 - INFO - Link 'Show more' da 28ª página clicado pela 4ª vez
+2023-09-21 22:03:33,677 - INFO - Link 'Show more' da 28ª página clicado pela 5ª vez
+2023-09-21 22:03:38,738 - INFO - Link 'Show more' da 28ª página clicado pela 6ª vez
+2023-09-21 22:03:43,799 - INFO - Link 'Show more' da 28ª página clicado pela 7ª vez
+2023-09-21 22:03:48,852 - INFO - Link 'Show more' da 28ª página clicado pela 8ª vez
+2023-09-21 22:03:53,910 - INFO - Link 'Show more' da 28ª página clicado pela 9ª vez
+2023-09-21 22:03:58,976 - INFO - Link 'Show more' da 28ª página clicado pela 10ª vez
+2023-09-21 22:04:04,038 - INFO - Link 'Show more' da 28ª página clicado pela 11ª vez
+2023-09-21 22:04:09,117 - INFO - Link 'Show more' da 28ª página clicado pela 12ª vez
+2023-09-21 22:04:19,523 - INFO - Fim da página alcançado!
+2023-09-21 22:04:20,218 - INFO - Foram coletados 561 id's de usuários da página completa.
+2023-09-21 22:04:28,480 - INFO - Link 'Show more' da 29ª página clicado pela 1ª vez
+2023-09-21 22:04:33,526 - INFO - Link 'Show more' da 29ª página clicado pela 2ª vez
+2023-09-21 22:04:38,593 - INFO - Link 'Show more' da 29ª página clicado pela 3ª vez
+2023-09-21 22:04:43,647 - INFO - Link 'Show more' da 29ª página clicado pela 4ª vez
+2023-09-21 22:04:48,694 - INFO - Link 'Show more' da 29ª página clicado pela 5ª vez
+2023-09-21 22:04:53,742 - INFO - Link 'Show more' da 29ª página clicado pela 6ª vez
+2023-09-21 22:04:58,789 - INFO - Link 'Show more' da 29ª página clicado pela 7ª vez
+2023-09-21 22:05:03,849 - INFO - Link 'Show more' da 29ª página clicado pela 8ª vez
+2023-09-21 22:05:08,913 - INFO - Link 'Show more' da 29ª página clicado pela 9ª vez
+2023-09-21 22:05:13,976 - INFO - Link 'Show more' da 29ª página clicado pela 10ª vez
+2023-09-21 22:05:19,043 - INFO - Link 'Show more' da 29ª página clicado pela 11ª vez
+2023-09-21 22:05:24,100 - INFO - Link 'Show more' da 29ª página clicado pela 12ª vez
+2023-09-21 22:05:34,503 - INFO - Fim da página alcançado!
+2023-09-21 22:05:35,138 - INFO - Foram coletados 511 id's de usuários da página completa.
+2023-09-21 22:05:45,495 - INFO - Link 'Show more' da 30ª página clicado pela 1ª vez
+2023-09-21 22:05:50,541 - INFO - Link 'Show more' da 30ª página clicado pela 2ª vez
+2023-09-21 22:05:55,589 - INFO - Link 'Show more' da 30ª página clicado pela 3ª vez
+2023-09-21 22:06:00,642 - INFO - Link 'Show more' da 30ª página clicado pela 4ª vez
+2023-09-21 22:06:05,694 - INFO - Link 'Show more' da 30ª página clicado pela 5ª vez
+2023-09-21 22:06:10,744 - INFO - Link 'Show more' da 30ª página clicado pela 6ª vez
+2023-09-21 22:06:15,808 - INFO - Link 'Show more' da 30ª página clicado pela 7ª vez
+2023-09-21 22:06:20,864 - INFO - Link 'Show more' da 30ª página clicado pela 8ª vez
+2023-09-21 22:06:25,920 - INFO - Link 'Show more' da 30ª página clicado pela 9ª vez
+2023-09-21 22:06:30,982 - INFO - Link 'Show more' da 30ª página clicado pela 10ª vez
+2023-09-21 22:06:36,051 - INFO - Link 'Show more' da 30ª página clicado pela 11ª vez
+2023-09-21 22:06:41,116 - INFO - Link 'Show more' da 30ª página clicado pela 12ª vez
+2023-09-21 22:06:51,589 - INFO - Fim da página alcançado!
+2023-09-21 22:06:52,370 - INFO - Foram coletados 607 id's de usuários da página completa.
+2023-09-21 22:07:02,058 - INFO - Link 'Show more' da 31ª página clicado pela 1ª vez
+2023-09-21 22:07:07,112 - INFO - Link 'Show more' da 31ª página clicado pela 2ª vez
+2023-09-21 22:07:12,181 - INFO - Link 'Show more' da 31ª página clicado pela 3ª vez
+2023-09-21 22:07:17,232 - INFO - Link 'Show more' da 31ª página clicado pela 4ª vez
+2023-09-21 22:07:22,280 - INFO - Link 'Show more' da 31ª página clicado pela 5ª vez
+2023-09-21 22:07:27,330 - INFO - Link 'Show more' da 31ª página clicado pela 6ª vez
+2023-09-21 22:07:32,377 - INFO - Link 'Show more' da 31ª página clicado pela 7ª vez
+2023-09-21 22:07:37,426 - INFO - Link 'Show more' da 31ª página clicado pela 8ª vez
+2023-09-21 22:07:42,490 - INFO - Link 'Show more' da 31ª página clicado pela 9ª vez
+2023-09-21 22:07:47,544 - INFO - Link 'Show more' da 31ª página clicado pela 10ª vez
+2023-09-21 22:07:52,622 - INFO - Link 'Show more' da 31ª página clicado pela 11ª vez
+2023-09-21 22:07:57,690 - INFO - Link 'Show more' da 31ª página clicado pela 12ª vez
+2023-09-21 22:08:08,124 - INFO - Fim da página alcançado!
+2023-09-21 22:08:08,832 - INFO - Foram coletados 470 id's de usuários da página completa.
+2023-09-21 22:08:17,274 - INFO - Link 'Show more' da 32ª página clicado pela 1ª vez
+2023-09-21 22:08:22,324 - INFO - Link 'Show more' da 32ª página clicado pela 2ª vez
+2023-09-21 22:08:27,382 - INFO - Link 'Show more' da 32ª página clicado pela 3ª vez
+2023-09-21 22:08:32,437 - INFO - Link 'Show more' da 32ª página clicado pela 4ª vez
+2023-09-21 22:08:37,486 - INFO - Link 'Show more' da 32ª página clicado pela 5ª vez
+2023-09-21 22:08:42,536 - INFO - Link 'Show more' da 32ª página clicado pela 6ª vez
+2023-09-21 22:08:47,592 - INFO - Link 'Show more' da 32ª página clicado pela 7ª vez
+2023-09-21 22:08:52,647 - INFO - Link 'Show more' da 32ª página clicado pela 8ª vez
+2023-09-21 22:08:57,710 - INFO - Link 'Show more' da 32ª página clicado pela 9ª vez
+2023-09-21 22:09:02,766 - INFO - Link 'Show more' da 32ª página clicado pela 10ª vez
+2023-09-21 22:09:07,815 - INFO - Link 'Show more' da 32ª página clicado pela 11ª vez
+2023-09-21 22:09:12,884 - INFO - Link 'Show more' da 32ª página clicado pela 12ª vez
+2023-09-21 22:09:23,313 - INFO - Fim da página alcançado!
+2023-09-21 22:09:24,100 - INFO - Foram coletados 498 id's de usuários da página completa.
+2023-09-21 22:09:32,277 - INFO - Link 'Show more' da 33ª página clicado pela 1ª vez
+2023-09-21 22:09:37,327 - INFO - Link 'Show more' da 33ª página clicado pela 2ª vez
+2023-09-21 22:09:42,375 - INFO - Link 'Show more' da 33ª página clicado pela 3ª vez
+2023-09-21 22:09:47,430 - INFO - Link 'Show more' da 33ª página clicado pela 4ª vez
+2023-09-21 22:09:52,481 - INFO - Link 'Show more' da 33ª página clicado pela 5ª vez
+2023-09-21 22:09:57,537 - INFO - Link 'Show more' da 33ª página clicado pela 6ª vez
+2023-09-21 22:10:02,595 - INFO - Link 'Show more' da 33ª página clicado pela 7ª vez
+2023-09-21 22:10:07,644 - INFO - Link 'Show more' da 33ª página clicado pela 8ª vez
+2023-09-21 22:10:12,700 - INFO - Link 'Show more' da 33ª página clicado pela 9ª vez
+2023-09-21 22:10:17,762 - INFO - Link 'Show more' da 33ª página clicado pela 10ª vez
+2023-09-21 22:10:22,827 - INFO - Link 'Show more' da 33ª página clicado pela 11ª vez
+2023-09-21 22:10:27,901 - INFO - Link 'Show more' da 33ª página clicado pela 12ª vez
+2023-09-21 22:10:38,310 - INFO - Fim da página alcançado!
+2023-09-21 22:10:39,015 - INFO - Foram coletados 490 id's de usuários da página completa.
+2023-09-21 22:10:47,273 - INFO - Link 'Show more' da 34ª página clicado pela 1ª vez
+2023-09-21 22:10:52,322 - INFO - Link 'Show more' da 34ª página clicado pela 2ª vez
+2023-09-21 22:10:57,372 - INFO - Link 'Show more' da 34ª página clicado pela 3ª vez
+2023-09-21 22:11:02,419 - INFO - Link 'Show more' da 34ª página clicado pela 4ª vez
+2023-09-21 22:11:07,488 - INFO - Link 'Show more' da 34ª página clicado pela 5ª vez
+2023-09-21 22:11:12,541 - INFO - Link 'Show more' da 34ª página clicado pela 6ª vez
+2023-09-21 22:11:17,592 - INFO - Link 'Show more' da 34ª página clicado pela 7ª vez
+2023-09-21 22:11:22,656 - INFO - Link 'Show more' da 34ª página clicado pela 8ª vez
+2023-09-21 22:11:27,713 - INFO - Link 'Show more' da 34ª página clicado pela 9ª vez
+2023-09-21 22:11:32,775 - INFO - Link 'Show more' da 34ª página clicado pela 10ª vez
+2023-09-21 22:11:37,850 - INFO - Link 'Show more' da 34ª página clicado pela 11ª vez
+2023-09-21 22:11:42,898 - INFO - Link 'Show more' da 34ª página clicado pela 12ª vez
+2023-09-21 22:11:53,328 - INFO - Fim da página alcançado!
+2023-09-21 22:11:54,051 - INFO - Foram coletados 515 id's de usuários da página completa.
+2023-09-21 22:12:02,596 - INFO - Link 'Show more' da 35ª página clicado pela 1ª vez
+2023-09-21 22:12:07,649 - INFO - Link 'Show more' da 35ª página clicado pela 2ª vez
+2023-09-21 22:12:12,697 - INFO - Link 'Show more' da 35ª página clicado pela 3ª vez
+2023-09-21 22:12:17,746 - INFO - Link 'Show more' da 35ª página clicado pela 4ª vez
+2023-09-21 22:12:22,798 - INFO - Link 'Show more' da 35ª página clicado pela 5ª vez
+2023-09-21 22:12:27,853 - INFO - Link 'Show more' da 35ª página clicado pela 6ª vez
+2023-09-21 22:12:32,913 - INFO - Link 'Show more' da 35ª página clicado pela 7ª vez
+2023-09-21 22:12:37,976 - INFO - Link 'Show more' da 35ª página clicado pela 8ª vez
+2023-09-21 22:12:43,027 - INFO - Link 'Show more' da 35ª página clicado pela 9ª vez
+2023-09-21 22:12:48,078 - INFO - Link 'Show more' da 35ª página clicado pela 10ª vez
+2023-09-21 22:12:53,132 - INFO - Link 'Show more' da 35ª página clicado pela 11ª vez
+2023-09-21 22:12:58,206 - INFO - Link 'Show more' da 35ª página clicado pela 12ª vez
+2023-09-21 22:13:08,634 - INFO - Fim da página alcançado!
+2023-09-21 22:13:09,303 - INFO - Foram coletados 483 id's de usuários da página completa.
+2023-09-21 22:13:18,122 - INFO - Link 'Show more' da 36ª página clicado pela 1ª vez
+2023-09-21 22:13:23,175 - INFO - Link 'Show more' da 36ª página clicado pela 2ª vez
+2023-09-21 22:13:28,225 - INFO - Link 'Show more' da 36ª página clicado pela 3ª vez
+2023-09-21 22:13:33,272 - INFO - Link 'Show more' da 36ª página clicado pela 4ª vez
+2023-09-21 22:13:38,332 - INFO - Link 'Show more' da 36ª página clicado pela 5ª vez
+2023-09-21 22:13:43,379 - INFO - Link 'Show more' da 36ª página clicado pela 6ª vez
+2023-09-21 22:13:48,433 - INFO - Link 'Show more' da 36ª página clicado pela 7ª vez
+2023-09-21 22:13:53,486 - INFO - Link 'Show more' da 36ª página clicado pela 8ª vez
+2023-09-21 22:13:58,552 - INFO - Link 'Show more' da 36ª página clicado pela 9ª vez
+2023-09-21 22:14:03,618 - INFO - Link 'Show more' da 36ª página clicado pela 10ª vez
+2023-09-21 22:14:08,686 - INFO - Link 'Show more' da 36ª página clicado pela 11ª vez
+2023-09-21 22:14:13,754 - INFO - Link 'Show more' da 36ª página clicado pela 12ª vez
+2023-09-21 22:14:24,215 - INFO - Fim da página alcançado!
+2023-09-21 22:14:24,907 - INFO - Foram coletados 452 id's de usuários da página completa.
+2023-09-21 22:14:33,420 - INFO - Link 'Show more' da 37ª página clicado pela 1ª vez
+2023-09-21 22:14:38,470 - INFO - Link 'Show more' da 37ª página clicado pela 2ª vez
+2023-09-21 22:14:43,531 - INFO - Link 'Show more' da 37ª página clicado pela 3ª vez
+2023-09-21 22:14:48,588 - INFO - Link 'Show more' da 37ª página clicado pela 4ª vez
+2023-09-21 22:14:53,636 - INFO - Link 'Show more' da 37ª página clicado pela 5ª vez
+2023-09-21 22:14:58,704 - INFO - Link 'Show more' da 37ª página clicado pela 6ª vez
+2023-09-21 22:15:03,754 - INFO - Link 'Show more' da 37ª página clicado pela 7ª vez
+2023-09-21 22:15:08,803 - INFO - Link 'Show more' da 37ª página clicado pela 8ª vez
+2023-09-21 22:15:13,857 - INFO - Link 'Show more' da 37ª página clicado pela 9ª vez
+2023-09-21 22:15:18,923 - INFO - Link 'Show more' da 37ª página clicado pela 10ª vez
+2023-09-21 22:15:23,991 - INFO - Link 'Show more' da 37ª página clicado pela 11ª vez
+2023-09-21 22:15:34,444 - INFO - Fim da página alcançado!
+2023-09-21 22:15:35,123 - INFO - Foram coletados 452 id's de usuários da página completa.
+2023-09-21 22:15:43,251 - INFO - Link 'Show more' da 38ª página clicado pela 1ª vez
+2023-09-21 22:15:48,307 - INFO - Link 'Show more' da 38ª página clicado pela 2ª vez
+2023-09-21 22:15:53,354 - INFO - Link 'Show more' da 38ª página clicado pela 3ª vez
+2023-09-21 22:15:58,400 - INFO - Link 'Show more' da 38ª página clicado pela 4ª vez
+2023-09-21 22:16:03,456 - INFO - Link 'Show more' da 38ª página clicado pela 5ª vez
+2023-09-21 22:16:08,507 - INFO - Link 'Show more' da 38ª página clicado pela 6ª vez
+2023-09-21 22:16:13,562 - INFO - Link 'Show more' da 38ª página clicado pela 7ª vez
+2023-09-21 22:16:18,611 - INFO - Link 'Show more' da 38ª página clicado pela 8ª vez
+2023-09-21 22:16:23,659 - INFO - Link 'Show more' da 38ª página clicado pela 9ª vez
+2023-09-21 22:16:28,721 - INFO - Link 'Show more' da 38ª página clicado pela 10ª vez
+2023-09-21 22:16:33,774 - INFO - Link 'Show more' da 38ª página clicado pela 11ª vez
+2023-09-21 22:16:38,826 - INFO - Link 'Show more' da 38ª página clicado pela 12ª vez
+2023-09-21 22:16:49,271 - INFO - Fim da página alcançado!
+2023-09-21 22:16:50,071 - INFO - Foram coletados 518 id's de usuários da página completa.
+2023-09-21 22:16:59,474 - INFO - Link 'Show more' da 39ª página clicado pela 1ª vez
+2023-09-21 22:17:04,528 - INFO - Link 'Show more' da 39ª página clicado pela 2ª vez
+2023-09-21 22:17:09,575 - INFO - Link 'Show more' da 39ª página clicado pela 3ª vez
+2023-09-21 22:17:14,623 - INFO - Link 'Show more' da 39ª página clicado pela 4ª vez
+2023-09-21 22:17:19,671 - INFO - Link 'Show more' da 39ª página clicado pela 5ª vez
+2023-09-21 22:17:24,729 - INFO - Link 'Show more' da 39ª página clicado pela 6ª vez
+2023-09-21 22:17:29,776 - INFO - Link 'Show more' da 39ª página clicado pela 7ª vez
+2023-09-21 22:17:34,840 - INFO - Link 'Show more' da 39ª página clicado pela 8ª vez
+2023-09-21 22:17:39,889 - INFO - Link 'Show more' da 39ª página clicado pela 9ª vez
+2023-09-21 22:17:44,954 - INFO - Link 'Show more' da 39ª página clicado pela 10ª vez
+2023-09-21 22:17:50,030 - INFO - Link 'Show more' da 39ª página clicado pela 11ª vez
+2023-09-21 22:17:55,109 - INFO - Link 'Show more' da 39ª página clicado pela 12ª vez
+2023-09-21 22:18:05,526 - INFO - Fim da página alcançado!
+2023-09-21 22:18:06,252 - INFO - Foram coletados 487 id's de usuários da página completa.
+2023-09-21 22:18:15,129 - INFO - Link 'Show more' da 40ª página clicado pela 1ª vez
+2023-09-21 22:18:20,185 - INFO - Link 'Show more' da 40ª página clicado pela 2ª vez
+2023-09-21 22:18:25,245 - INFO - Link 'Show more' da 40ª página clicado pela 3ª vez
+2023-09-21 22:18:30,296 - INFO - Link 'Show more' da 40ª página clicado pela 4ª vez
+2023-09-21 22:18:35,344 - INFO - Link 'Show more' da 40ª página clicado pela 5ª vez
+2023-09-21 22:18:40,398 - INFO - Link 'Show more' da 40ª página clicado pela 6ª vez
+2023-09-21 22:18:45,455 - INFO - Link 'Show more' da 40ª página clicado pela 7ª vez
+2023-09-21 22:18:50,509 - INFO - Link 'Show more' da 40ª página clicado pela 8ª vez
+2023-09-21 22:18:55,560 - INFO - Link 'Show more' da 40ª página clicado pela 9ª vez
+2023-09-21 22:19:00,611 - INFO - Link 'Show more' da 40ª página clicado pela 10ª vez
+2023-09-21 22:19:05,665 - INFO - Link 'Show more' da 40ª página clicado pela 11ª vez
+2023-09-21 22:19:16,108 - INFO - Fim da página alcançado!
+2023-09-21 22:19:16,850 - INFO - Foram coletados 532 id's de usuários da página completa.
+2023-09-21 22:19:24,995 - INFO - Link 'Show more' da 41ª página clicado pela 1ª vez
+2023-09-21 22:19:30,041 - INFO - Link 'Show more' da 41ª página clicado pela 2ª vez
+2023-09-21 22:19:35,090 - INFO - Link 'Show more' da 41ª página clicado pela 3ª vez
+2023-09-21 22:19:40,145 - INFO - Link 'Show more' da 41ª página clicado pela 4ª vez
+2023-09-21 22:19:45,198 - INFO - Link 'Show more' da 41ª página clicado pela 5ª vez
+2023-09-21 22:19:50,245 - INFO - Link 'Show more' da 41ª página clicado pela 6ª vez
+2023-09-21 22:19:55,295 - INFO - Link 'Show more' da 41ª página clicado pela 7ª vez
+2023-09-21 22:20:00,351 - INFO - Link 'Show more' da 41ª página clicado pela 8ª vez
+2023-09-21 22:20:05,405 - INFO - Link 'Show more' da 41ª página clicado pela 9ª vez
+2023-09-21 22:20:10,465 - INFO - Link 'Show more' da 41ª página clicado pela 10ª vez
+2023-09-21 22:20:15,542 - INFO - Link 'Show more' da 41ª página clicado pela 11ª vez
+2023-09-21 22:20:25,975 - INFO - Fim da página alcançado!
+2023-09-21 22:20:26,542 - INFO - Foram coletados 463 id's de usuários da página completa.
+2023-09-21 22:20:35,417 - INFO - Link 'Show more' da 42ª página clicado pela 1ª vez
+2023-09-21 22:20:40,466 - INFO - Link 'Show more' da 42ª página clicado pela 2ª vez
+2023-09-21 22:20:45,538 - INFO - Link 'Show more' da 42ª página clicado pela 3ª vez
+2023-09-21 22:20:50,589 - INFO - Link 'Show more' da 42ª página clicado pela 4ª vez
+2023-09-21 22:20:55,637 - INFO - Link 'Show more' da 42ª página clicado pela 5ª vez
+2023-09-21 22:21:00,686 - INFO - Link 'Show more' da 42ª página clicado pela 6ª vez
+2023-09-21 22:21:05,746 - INFO - Link 'Show more' da 42ª página clicado pela 7ª vez
+2023-09-21 22:21:10,797 - INFO - Link 'Show more' da 42ª página clicado pela 8ª vez
+2023-09-21 22:21:15,846 - INFO - Link 'Show more' da 42ª página clicado pela 9ª vez
+2023-09-21 22:21:20,897 - INFO - Link 'Show more' da 42ª página clicado pela 10ª vez
+2023-09-21 22:21:25,955 - INFO - Link 'Show more' da 42ª página clicado pela 11ª vez
+2023-09-21 22:21:36,387 - INFO - Fim da página alcançado!
+2023-09-21 22:21:36,965 - INFO - Foram coletados 476 id's de usuários da página completa.
+2023-09-21 22:21:47,506 - INFO - Link 'Show more' da 43ª página clicado pela 1ª vez
+2023-09-21 22:21:52,555 - INFO - Link 'Show more' da 43ª página clicado pela 2ª vez
+2023-09-21 22:21:57,603 - INFO - Link 'Show more' da 43ª página clicado pela 3ª vez
+2023-09-21 22:22:02,659 - INFO - Link 'Show more' da 43ª página clicado pela 4ª vez
+2023-09-21 22:22:07,726 - INFO - Link 'Show more' da 43ª página clicado pela 5ª vez
+2023-09-21 22:22:12,773 - INFO - Link 'Show more' da 43ª página clicado pela 6ª vez
+2023-09-21 22:22:17,820 - INFO - Link 'Show more' da 43ª página clicado pela 7ª vez
+2023-09-21 22:22:22,876 - INFO - Link 'Show more' da 43ª página clicado pela 8ª vez
+2023-09-21 22:22:27,936 - INFO - Link 'Show more' da 43ª página clicado pela 9ª vez
+2023-09-21 22:22:33,007 - INFO - Link 'Show more' da 43ª página clicado pela 10ª vez
+2023-09-21 22:22:38,078 - INFO - Link 'Show more' da 43ª página clicado pela 11ª vez
+2023-09-21 22:22:43,136 - INFO - Link 'Show more' da 43ª página clicado pela 12ª vez
+2023-09-21 22:22:53,522 - INFO - Fim da página alcançado!
+2023-09-21 22:22:54,279 - INFO - Foram coletados 664 id's de usuários da página completa.
+2023-09-21 22:23:02,865 - INFO - Link 'Show more' da 44ª página clicado pela 1ª vez
+2023-09-21 22:23:07,914 - INFO - Link 'Show more' da 44ª página clicado pela 2ª vez
+2023-09-21 22:23:12,959 - INFO - Link 'Show more' da 44ª página clicado pela 3ª vez
+2023-09-21 22:23:18,010 - INFO - Link 'Show more' da 44ª página clicado pela 4ª vez
+2023-09-21 22:23:23,062 - INFO - Link 'Show more' da 44ª página clicado pela 5ª vez
+2023-09-21 22:23:28,110 - INFO - Link 'Show more' da 44ª página clicado pela 6ª vez
+2023-09-21 22:23:33,158 - INFO - Link 'Show more' da 44ª página clicado pela 7ª vez
+2023-09-21 22:23:38,216 - INFO - Link 'Show more' da 44ª página clicado pela 8ª vez
+2023-09-21 22:23:43,281 - INFO - Link 'Show more' da 44ª página clicado pela 9ª vez
+2023-09-21 22:23:48,343 - INFO - Link 'Show more' da 44ª página clicado pela 10ª vez
+2023-09-21 22:23:53,389 - INFO - Link 'Show more' da 44ª página clicado pela 11ª vez
+2023-09-21 22:23:58,462 - INFO - Link 'Show more' da 44ª página clicado pela 12ª vez
+2023-09-21 22:24:08,882 - INFO - Fim da página alcançado!
+2023-09-21 22:24:09,585 - INFO - Foram coletados 476 id's de usuários da página completa.
+2023-09-21 22:24:17,325 - INFO - Link 'Show more' da 45ª página clicado pela 1ª vez
+2023-09-21 22:24:22,373 - INFO - Link 'Show more' da 45ª página clicado pela 2ª vez
+2023-09-21 22:24:27,429 - INFO - Link 'Show more' da 45ª página clicado pela 3ª vez
+2023-09-21 22:24:32,476 - INFO - Link 'Show more' da 45ª página clicado pela 4ª vez
+2023-09-21 22:24:37,546 - INFO - Link 'Show more' da 45ª página clicado pela 5ª vez
+2023-09-21 22:24:42,601 - INFO - Link 'Show more' da 45ª página clicado pela 6ª vez
+2023-09-21 22:24:47,662 - INFO - Link 'Show more' da 45ª página clicado pela 7ª vez
+2023-09-21 22:24:52,727 - INFO - Link 'Show more' da 45ª página clicado pela 8ª vez
+2023-09-21 22:24:57,798 - INFO - Link 'Show more' da 45ª página clicado pela 9ª vez
+2023-09-21 22:25:02,849 - INFO - Link 'Show more' da 45ª página clicado pela 10ª vez
+2023-09-21 22:25:07,906 - INFO - Link 'Show more' da 45ª página clicado pela 11ª vez
+2023-09-21 22:25:12,958 - INFO - Link 'Show more' da 45ª página clicado pela 12ª vez
+2023-09-21 22:25:23,409 - INFO - Fim da página alcançado!
+2023-09-21 22:25:24,025 - INFO - Foram coletados 512 id's de usuários da página completa.
+2023-09-21 22:25:32,696 - INFO - Link 'Show more' da 46ª página clicado pela 1ª vez
+2023-09-21 22:25:37,741 - INFO - Link 'Show more' da 46ª página clicado pela 2ª vez
+2023-09-21 22:25:42,797 - INFO - Link 'Show more' da 46ª página clicado pela 3ª vez
+2023-09-21 22:25:47,853 - INFO - Link 'Show more' da 46ª página clicado pela 4ª vez
+2023-09-21 22:25:52,899 - INFO - Link 'Show more' da 46ª página clicado pela 5ª vez
+2023-09-21 22:25:57,947 - INFO - Link 'Show more' da 46ª página clicado pela 6ª vez
+2023-09-21 22:26:03,002 - INFO - Link 'Show more' da 46ª página clicado pela 7ª vez
+2023-09-21 22:26:08,054 - INFO - Link 'Show more' da 46ª página clicado pela 8ª vez
+2023-09-21 22:26:13,109 - INFO - Link 'Show more' da 46ª página clicado pela 9ª vez
+2023-09-21 22:26:18,173 - INFO - Link 'Show more' da 46ª página clicado pela 10ª vez
+2023-09-21 22:26:23,244 - INFO - Link 'Show more' da 46ª página clicado pela 11ª vez
+2023-09-21 22:26:33,643 - INFO - Fim da página alcançado!
+2023-09-21 22:26:34,256 - INFO - Foram coletados 473 id's de usuários da página completa.
+2023-09-21 22:26:42,553 - INFO - Link 'Show more' da 47ª página clicado pela 1ª vez
+2023-09-21 22:26:47,602 - INFO - Link 'Show more' da 47ª página clicado pela 2ª vez
+2023-09-21 22:26:52,652 - INFO - Link 'Show more' da 47ª página clicado pela 3ª vez
+2023-09-21 22:26:57,704 - INFO - Link 'Show more' da 47ª página clicado pela 4ª vez
+2023-09-21 22:27:02,749 - INFO - Link 'Show more' da 47ª página clicado pela 5ª vez
+2023-09-21 22:27:07,801 - INFO - Link 'Show more' da 47ª página clicado pela 6ª vez
+2023-09-21 22:27:12,851 - INFO - Link 'Show more' da 47ª página clicado pela 7ª vez
+2023-09-21 22:27:17,901 - INFO - Link 'Show more' da 47ª página clicado pela 8ª vez
+2023-09-21 22:27:22,962 - INFO - Link 'Show more' da 47ª página clicado pela 9ª vez
+2023-09-21 22:27:28,030 - INFO - Link 'Show more' da 47ª página clicado pela 10ª vez
+2023-09-21 22:27:33,099 - INFO - Link 'Show more' da 47ª página clicado pela 11ª vez
+2023-09-21 22:27:43,509 - INFO - Fim da página alcançado!
+2023-09-21 22:27:44,269 - INFO - Foram coletados 754 id's de usuários da página completa.
+2023-09-21 22:27:54,266 - INFO - Link 'Show more' da 48ª página clicado pela 1ª vez
+2023-09-21 22:27:59,315 - INFO - Link 'Show more' da 48ª página clicado pela 2ª vez
+2023-09-21 22:28:04,377 - INFO - Link 'Show more' da 48ª página clicado pela 3ª vez
+2023-09-21 22:28:09,428 - INFO - Link 'Show more' da 48ª página clicado pela 4ª vez
+2023-09-21 22:28:14,481 - INFO - Link 'Show more' da 48ª página clicado pela 5ª vez
+2023-09-21 22:28:19,534 - INFO - Link 'Show more' da 48ª página clicado pela 6ª vez
+2023-09-21 22:28:24,597 - INFO - Link 'Show more' da 48ª página clicado pela 7ª vez
+2023-09-21 22:28:29,660 - INFO - Link 'Show more' da 48ª página clicado pela 8ª vez
+2023-09-21 22:28:34,719 - INFO - Link 'Show more' da 48ª página clicado pela 9ª vez
+2023-09-21 22:28:39,788 - INFO - Link 'Show more' da 48ª página clicado pela 10ª vez
+2023-09-21 22:28:44,860 - INFO - Link 'Show more' da 48ª página clicado pela 11ª vez
+2023-09-21 22:28:55,286 - INFO - Fim da página alcançado!
+2023-09-21 22:28:55,958 - INFO - Foram coletados 542 id's de usuários da página completa.
+2023-09-21 22:29:04,275 - INFO - Link 'Show more' da 49ª página clicado pela 1ª vez
+2023-09-21 22:29:09,328 - INFO - Link 'Show more' da 49ª página clicado pela 2ª vez
+2023-09-21 22:29:14,383 - INFO - Link 'Show more' da 49ª página clicado pela 3ª vez
+2023-09-21 22:29:19,431 - INFO - Link 'Show more' da 49ª página clicado pela 4ª vez
+2023-09-21 22:29:24,493 - INFO - Link 'Show more' da 49ª página clicado pela 5ª vez
+2023-09-21 22:29:29,538 - INFO - Link 'Show more' da 49ª página clicado pela 6ª vez
+2023-09-21 22:29:34,591 - INFO - Link 'Show more' da 49ª página clicado pela 7ª vez
+2023-09-21 22:29:39,646 - INFO - Link 'Show more' da 49ª página clicado pela 8ª vez
+2023-09-21 22:29:44,708 - INFO - Link 'Show more' da 49ª página clicado pela 9ª vez
+2023-09-21 22:29:49,775 - INFO - Link 'Show more' da 49ª página clicado pela 10ª vez
+2023-09-21 22:29:54,833 - INFO - Link 'Show more' da 49ª página clicado pela 11ª vez
+2023-09-21 22:30:05,245 - INFO - Fim da página alcançado!
+2023-09-21 22:30:05,732 - INFO - Foram coletados 432 id's de usuários da página completa.
+2023-09-21 22:30:15,765 - INFO - Link 'Show more' da 50ª página clicado pela 1ª vez
+2023-09-21 22:30:20,812 - INFO - Link 'Show more' da 50ª página clicado pela 2ª vez
+2023-09-21 22:30:25,869 - INFO - Link 'Show more' da 50ª página clicado pela 3ª vez
+2023-09-21 22:30:30,913 - INFO - Link 'Show more' da 50ª página clicado pela 4ª vez
+2023-09-21 22:30:35,964 - INFO - Link 'Show more' da 50ª página clicado pela 5ª vez
+2023-09-21 22:30:41,016 - INFO - Link 'Show more' da 50ª página clicado pela 6ª vez
+2023-09-21 22:30:46,066 - INFO - Link 'Show more' da 50ª página clicado pela 7ª vez
+2023-09-21 22:30:51,130 - INFO - Link 'Show more' da 50ª página clicado pela 8ª vez
+2023-09-21 22:30:56,181 - INFO - Link 'Show more' da 50ª página clicado pela 9ª vez
+2023-09-21 22:31:01,240 - INFO - Link 'Show more' da 50ª página clicado pela 10ª vez
+2023-09-21 22:31:06,305 - INFO - Link 'Show more' da 50ª página clicado pela 11ª vez
+2023-09-21 22:31:16,708 - INFO - Fim da página alcançado!
+2023-09-21 22:31:17,404 - INFO - Foram coletados 751 id's de usuários da página completa.
+2023-09-21 22:31:17,412 - INFO - Coleta dos IDs de usuários levou 01h00m35s para ser executado.
+2023-09-21 22:31:17,412 - INFO - Coleta concluída!
+2023-09-21 23:44:38,799 - INFO - No total foram coletados 13458 IDs de usuários!
+2023-09-21 23:44:38,804 - INFO - Salvando a lista de IDs de usuários coletados num arquivo JSON...
+2023-09-21 23:44:38,814 - INFO - Exportação concluída! O arquivo resultante se encontra dentro da pasta 'data' com o nome 'top_rated_brazilian_beer_user_links.json'.
