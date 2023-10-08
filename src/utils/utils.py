@@ -1,5 +1,6 @@
 import logging
 import time
+import json
 from timeit import default_timer as timer
 from datetime import datetime
 
@@ -100,4 +101,52 @@ class Clock:
         elapsed_time = self.end - self.start
 
         logger_.info(f"{self.label} levou {format_time(elapsed_time)} para ser executado.")
+
+def load_json(file_path: str) -> dict:
+    """
+    Carrega o JSON armazenado no caminho informado.
+    Parâmetros
+    ----------
+    file_path
+        Caminho para o arquivo JSON armazenado em disco.
+    Retorno
+    -------
+    dict
+        JSON na forma de um dicionário.
+    """
+    with open(file_path, "r", encoding="utf-8") as readfile:
+        data = json.load(readfile)
+    return data
+
+def export_json(json_file: dict, file_path: str):
+    """
+    Exporta o dicionário como um JSON.
+    Parâmetros
+    ----------
+    json_file
+        JSON na forma de dicionário.
+    file_path
+        Caminho onde o JSON deverá ser armazenado em disco.
+    Retorno
+    -------
+    """
+    with open(file_path, "w", encoding="utf-8") as outfile:
+        json.dump(json_file, outfile, indent = 4, ensure_ascii=False)
+
+def generate_users_JSON_file_from_users_friends_file(user_friends_file_path, file_export_name):
+    path = '../data/'
+    users_file_name = user_friends_file_path
+
+    users_file = load_json(path + users_file_name)
+    
+    users_to_generate = []
+
+    for iterator in users_file:
+        users_to_generate.extend(users_file[iterator])
+    
+    users_json = {'users': users_to_generate}
+    export_json(users_json, path + file_export_name)
+
+
+
 
