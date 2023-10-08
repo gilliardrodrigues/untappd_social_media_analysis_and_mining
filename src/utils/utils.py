@@ -1,4 +1,5 @@
 import logging
+import json
 import time
 import json
 from timeit import default_timer as timer
@@ -7,17 +8,54 @@ from datetime import datetime
 """
 Utils
 Funções úteis
-getlogger: retorna um objeto do tipo logger
-format_time: retorna o tempo formatado de acordo com o necessário
+load_json: carrega um arquivo JSON armazenado em disco.
+export_json: exporta um dicionário como JSON.
+getlogger: retorna um objeto do tipo logger.
+format_time: retorna o tempo formatado de acordo com o necessário.
 """
 
 __all__ = [
+    'load_json',
+    'export_json',
     'get_logger',
     'format_time',
     'Clock'
 ]
 
 
+def load_json(file_path: str) -> dict:
+    """
+    Carrega o JSON armazenado no caminho informado.
+    Parâmetros
+    ----------
+    file_path
+        Caminho para o arquivo JSON armazenado em disco.
+    Retorno
+    -------
+    dict
+        JSON na forma de um dicionário.
+    """
+    with open(file_path, "r", encoding="utf-8") as readfile:
+        data = json.load(readfile)
+    return data
+
+
+def export_json(json_file: dict, file_path: str):
+    """
+    Exporta o dicionário como um JSON.
+    Parâmetros
+    ----------
+    json_file
+        JSON na forma de dicionário.
+    file_path
+        Caminho onde o JSON deverá ser armazenado em disco.
+    Retorno
+    -------
+    """
+    with open(file_path, "w", encoding="utf-8") as outfile:
+        json.dump(json_file, outfile, indent = 4, ensure_ascii=False)
+
+        
 def get_logger(logger: logging.Logger, level: int = 10) -> logging.Logger:
     """
     Retorna um objeto do tipo logger
